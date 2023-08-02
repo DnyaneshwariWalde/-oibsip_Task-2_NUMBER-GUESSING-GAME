@@ -18,7 +18,9 @@ To play the Number Guessing Game, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```
+
 git clone https://github.com/DnyaneshwariWalde/NUMBER_GUESSING_GAME.git
+
 
 ```
 
