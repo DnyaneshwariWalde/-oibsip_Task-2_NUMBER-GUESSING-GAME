@@ -18,8 +18,7 @@ To play the Number Guessing Game, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/DnyaneshwariWalde/NUMBER_GUESSING_GAME.git
-```
+gh repo clone DnyaneshwariWalde/NUMBER_GUESSING_GAME```
 
 2. Open the project in your Java IDE.
 
@@ -31,34 +30,56 @@ git clone https://github.com/DnyaneshwariWalde/NUMBER_GUESSING_GAME.git
 1. **Screenshot 1**
    ![Screenshot (288)](https://github.com/DnyaneshwariWalde/NUMBER_GUESSING_GAME/assets/120588435/dc8d03f5-a6db-4d50-9e3a-cebc299ae207)
 
-   Caption: The main interface of the Number Guessing Game, where the user can input their number guess and get feedback.
+                        Caption: The main interface of the Number Guessing Game, where the user can input their number guess and get feedback.
+
+
+
+
 
 2. **Screenshot 2**
    ![Pic2](https://github.com/DnyaneshwariWalde/NUMBER_GUESSING_GAME/assets/120588435/d1cfeaf2-b249-4d94-875e-c9433336142f)
-   Caption: The user has guessed a number that is too low, and the application provides feedback accordingly.
+                        Caption: The user has guessed a number that is too low, and the application provides feedback accordingly.
+
+
+
 
 3. **Screenshot 3**
    ![Home](https://github.com/DnyaneshwariWalde/NUMBER_GUESSING_GAME/assets/120588435/f5410b64-0c23-48be-a621-ea7d4daac7fc)   
-   Caption: The user has guessed a number that is too high, and the application provides feedback accordingly.
+                     Caption: The user has guessed a number that is too high, and the application provides feedback accordingly.
+
+
+
+
 
 5. **Screenshot 4**
    ![Screenshot (283)](https://github.com/DnyaneshwariWalde/NUMBER_GUESSING_GAME/assets/120588435/b0071474-9b71-4b18-b470-542729c8ecca)
-   Caption: The user has guessed the correct number, and the application congratulates them.
+                     Caption: The user has guessed the correct number, and the application congratulates them.
+
+
 
 7. **Screenshot 5**
    ![Screenshot (284)](https://github.com/DnyaneshwariWalde/NUMBER_GUESSING_GAME/assets/120588435/2c915f7a-9b82-4edb-893a-76cf000c692b)
-   Caption: The user is prompted to choose a custom color for the text area background.
+                     Caption: The user is prompted to choose a custom color for the text area background.
+
+
+
 
 9. **Screenshot 6**
     ![Screenshot (286)](https://github.com/DnyaneshwariWalde/NUMBER_GUESSING_GAME/assets/120588435/dc1913b3-380d-4529-9552-3051e522d13c)
-    Caption: The user is prompted to choose a custom color for the text.
+                      Caption: The user is prompted to choose a custom color for the text.
+
+
 
 11. **Screenshot 7**
-    ![Screenshot (288)](https://github.com/DnyaneshwariWalde/NUMBER_GUESSING_GAME/assets/120588435/f6f0c6f0-d5be-431a-b403-a30df444110b)
-    Caption: The game's interface after customization with user-selected colors for the text area and text.
+   ![Screenshot (287)](https://github.com/DnyaneshwariWalde/NUMBER_GUESSING_GAME/assets/120588435/57eaa463-d240-4704-af81-feb1af45392c)
+                  Caption: The game's interface after customization with user-selected colors for the text area and text.
+
+
+
+
 
 ## Dependencies
 
 The project has no external dependencies. It uses the standard Java libraries.
 
-Feel free to further customize the captions or provide additional details as needed. Don't forget to replace the image URLs with the actual links to your project's images on GitHub.
+
